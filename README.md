@@ -1,8 +1,8 @@
 # Practice 2.13 Boundary nodes, edges and elements: Complex mesh boundaries 
 ## P2.13-Boundary Nodes, Elements and Edges: complex mesh boundaries
 
-**Note:** the m-function file <tt>myBoundaryNodes.m</tt> and the script 
-is only for testing purposes. **Do not use it!**
+**Note:** the m-function file <tt>myBoundaryNodes.m</tt> is only for testing 
+purposes. **Do not use it!**
 
 You can find the session's guide ---together with other extra material
 files---at Toni Susin's 'Numerical Factory', 
