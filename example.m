@@ -8,10 +8,10 @@ figure()
 
 plotElements(nodes, elem, 0);
 % only for testing purposes DO NOT USE THIS ------------------------------
-[indNodBd,indElemBd,indLocalEdgeBd,edges]=myBoundaryNodes(nodes,elem); 
+%[indNodBd,indElemBd,indLocalEdgeBd,edges]=myBoundaryNodes(nodes,elem); 
 % ------------------------------------------------------------------------
 
-%[indNodBd,indElemBd,indLocalEdgeBd,edges]=boundaryNodes(nodes,elem);
+[indNodBd,indElemBd,indLocalEdgeBd,edges]=boundaryNodes(nodes,elem);
 
 hold on
 for i=1:length(indElemBd)
