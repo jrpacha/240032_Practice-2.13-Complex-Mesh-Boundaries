@@ -1,4 +1,4 @@
-## P1.4-Color Results. Find the Nodes & Elements on the Edges
+## P2.13-Boundary Nodes, Elements and Edges: complex mesh boundaries
 ### Plot and extres files required for the practice
 1. From <tt>additonalFiles.zip</tt>: 
    * <tt>plotElements.m</tt>
