@@ -1,10 +1,11 @@
 function [indNodBd, indElemBd, indLocalEdgBd, edges] = myBoundaryNodes(nodes, elem)
+% Only for testing purposes DO NOT USE THIS!
 % output:
 % indNodBd  -->  list of all nodes on the boundary
 % indElemBd -->  list of indices of the Elements on the boundary
 % indLocalEdgBd  -->  list of indices of the local element edges on the boundary
 % edges     -->  list of all edges defined in the total mesh
-% 
+%
 
 [numElem,nd] = size(elem);
 indElemBd = [];
